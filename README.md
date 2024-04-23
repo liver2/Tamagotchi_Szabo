@@ -9,3 +9,8 @@
 - https://github.com/mcauser/Adafruit_SSD1306/tree/esp8266-64x48
 - https://github.com/wemos/LOLIN_OLED_I2C_Button_Library
 - https://github.com/wemos/LOLIN_OLED_I2C_Button_Library/tree/master/examples
+
+- (most useful) https://files.seeedstudio.com/wiki/XIAO/Seeed-Studio-XIAO-Series-SOM-Datasheet.pdf
+- https://media.digikey.com/pdf/Data%20Sheets/Seeed%20Technology/102010328_Web.pdf
+- (applications) https://files.seeedstudio.com/wiki/XIAO/xiao-share.pdf
+- (detailed documentation) https://ww1.microchip.com/downloads/en/DeviceDoc/SAM-D21DA1-Family-Data-Sheet-DS40001882G.pdf
